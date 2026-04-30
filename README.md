@@ -1,7 +1,7 @@
 
 ![blank-visual-studio-logo-white-rgb-900px-w-72ppi](https://cdn-uploads.huggingface.co/production/uploads/69b126e4fac1fab0f41439ec/cfMGUQPBSBeBAdOIrewrr.png)
 
-# [[Blank©Strategist V1.0.1]([https://your-url-here.com](https://huggingface.co/BlankVisuals/BlankVisuals-Strategist-v1))]
+# [Blank©Strategist V1.0.1](https://huggingface.co/BlankVisuals/BlankVisuals-Strategist-v1)
 
 Blank©Strategist V1.0.1 is a specialized 8B parameter model, optimized for the **BlankVisuals Strategic Operating System (V4.2)**. It is engineered to execute anthropological identity mapping and high-signal brand architecture.
 
@@ -11,7 +11,7 @@ Blank©Strategist V1.0.1 is a specialized 8B parameter model, optimized for the 
 
 This model eliminates traditional marketing tropes in favor of clinical, technical-analytical logic. It focuses on mathematical rigor and unit economics validation within the branding process.
 
-- **Developed by:** BlankVisuals© - Adis Cengic (Principal Strategist)
+- **Developed by:** [BlankVisuals©](https://huggingface.co/BlankVisuals) - Adis Cengic (Principal Strategist)
 - **Model type:** LLM Fine-tuned for Strategic Business Intelligence
 - **Language(s) (NLP):** English
 - **License:** CC BY-NC-ND 4.0 (Non-Commercial, No Derivatives)
@@ -59,4 +59,4 @@ The model is trained on internal BlankVisuals archives, including the 30-format 
 
 ## Model Card Contact
 
-For gated access or inquiries: BlankVisuals.com Agency
+For gated access or inquiries: [BlankVisuals](https://huggingface.co/BlankVisuals).com Agency
